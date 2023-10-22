@@ -1,5 +1,5 @@
 # Hi there, I'm Zeyad Amer 👋
-# I'm a Senior Student at German University in Cairo in Computer Science and Engineering
+## I'm a Senior Student at German University in Cairo in Computer Science and Engineering
 
 🌱 I’m currently learning BACKEND in-depth, DEVOPS.
 
