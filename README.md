@@ -6,7 +6,7 @@
 🤝 Open to exciting project collaborations
 
 ## Connect with me:
-![LinkedIn](https://github.com/ZeyadAmer/ZeyadAmer/assets/76230484/d3d5349e-47a9-44cd-86fe-371680fc2be0)
+![www.linkedin.com/in/zeyad-amer](https://github.com/ZeyadAmer/ZeyadAmer/assets/76230484/d3d5349e-47a9-44cd-86fe-371680fc2be0)
 
 
 <!--
