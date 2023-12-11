@@ -6,7 +6,8 @@
 🤝 Open to exciting project collaborations
 
 ## Connect with me:
-(https://github.com/ZeyadAmer/ZeyadAmer/assets/76230484/a8df9d61-691f-4e47-9eb1-c5b9b3dc55f4)
+![alt text](https://github.com/ZeyadAmer/ZeyadAmer/assets/76230484/d3d5349e-47a9-44cd-86fe-371680fc2be0)
+
 
 <!--
 **ZeyadAmer/ZeyadAmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
